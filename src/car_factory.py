@@ -1,10 +1,10 @@
 
 from src.car import Car
-from src.battery.models.nubbin_battery import NubbinBattery
-from src.battery.models.splinder_battery import SplinderBattery
-from src.engine.models.capulet_engine import CapuletEngine
-from src.engine.models.sternman_engine import SternmanEngine
-from src.engine.models.willoughby_engine import WilloughbyEngine
+from src.battery.nubbin_battery import NubbinBattery
+from src.battery.splinder_battery import SplinderBattery
+from src.engine.capulet_engine import CapuletEngine
+from src.engine.sternman_engine import SternmanEngine
+from src.engine.willoughby_engine import WilloughbyEngine
 
 
 class CarFactory:
