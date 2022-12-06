@@ -1,2 +1,2 @@
-# Starter Repo
-This repo has everything you need to get started on the program, good luck!
+# Run tests
+python -m test.test_car
